@@ -1,5 +1,24 @@
-objectif: apprendre a utiliser "where " en sql
-matériel ou logiciels utilisés : laragon , sql
-étapes principales: lire le cours et faire les exemple du cours 
-difficultés rencontrée: retenir la syntax 
-résultat: je sais maintenant comment faire des requete sql avec " where" 
+# TP SQL - Clause WHERE
+
+## Objectif
+
+Apprendre à utiliser la clause WHERE en SQL.
+
+## Matériel et logiciels utilisés
+
+- Laragon
+- SQL
+
+## Étapes principales
+
+- Lire le cours
+- Observer les exemples
+- Réaliser les exercices avec la clause WHERE
+
+## Difficultés rencontrées
+
+Ma principale difficulté était de retenir la syntaxe SQL.
+
+## Résultat
+
+Je sais maintenant utiliser la clause WHERE pour filtrer les résultats d'une requête SQL.
